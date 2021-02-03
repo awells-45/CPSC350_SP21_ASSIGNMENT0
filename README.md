@@ -1,5 +1,3 @@
-# CPSC350_SP21_ASSIGNMENT0
-
 # Andrew Wells
 # 2349832
 
